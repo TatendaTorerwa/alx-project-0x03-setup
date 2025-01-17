@@ -1,5 +1,3 @@
-## components/common/Button.tsx
-
 interface ButtonProps {
   buttonLabel: string
   buttonSize?: string
